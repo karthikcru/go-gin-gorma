@@ -1,0 +1,9 @@
+Starting with GO lang
+
+Setting up a REST API, with best practices
+
+DB -> DAO -> Service -> API
+
+Use docker for builds
+
+Use a well know web framework GIN
